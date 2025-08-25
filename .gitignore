@@ -1,0 +1,5 @@
+*.pyc
+.idea/
+tests/tmp/
+build/
+.env38/
