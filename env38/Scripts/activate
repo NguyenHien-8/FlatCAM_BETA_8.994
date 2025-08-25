@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\ALL DESIGN CAM CNC\FlatCAM\FlatCAM_beta_8.994_sources\env38"
+VIRTUAL_ENV="E:\ALL DESIGN CAM CNC\FlatCAM\REPOSITORY\FlatCAM_BETA_8.994\env38"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

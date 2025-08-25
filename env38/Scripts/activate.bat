@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\ALL DESIGN CAM CNC\FlatCAM\FlatCAM_beta_8.994_sources\env38
+set VIRTUAL_ENV=E:\ALL DESIGN CAM CNC\FlatCAM\REPOSITORY\FlatCAM_BETA_8.994\env38
 
 if not defined PROMPT set PROMPT=$P$G
 
