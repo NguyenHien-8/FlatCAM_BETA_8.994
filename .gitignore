@@ -2,4 +2,4 @@
 .idea/
 tests/tmp/
 build/
-.env38/
+env38/

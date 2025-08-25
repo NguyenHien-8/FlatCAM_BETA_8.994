@@ -80,7 +80,10 @@ Link *********** Tải file FlatCAM Beta 8.994 (.zip):***********
     python -m pip install --upgrade pip
 
 - Nếu muốn xóa môi trường ảo:
-    deactivate
+  +Nếu đang ở CMD:
     rmdir /s /q env38
+  +Nếu đang ở PowerShell:
+    ri -r -fo .\env38
+
 Ví dụ: rmdir /s /q C:\Users\ACER\env38
 ========================== Toi La Hien Chuc Ban Thanh Cong ========================== 
